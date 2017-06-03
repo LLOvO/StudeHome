@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StudyHome</string>
+    <string name="title_activity_study_home">StudyHomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="str_nav_menu_ui">UI界面</string>
+    <string name="str_nav_menu_worker">线程相关</string>
+    <string name="str_nav_menu_file">文件相关</string>
+    <string name="hello_blank_fragment">这是HomeFragment，欢迎到来</string>
+    <string name="str_nav_utils">Tools</string>
+    <string name="str_nav_message">消息相关</string>
+    <string name="str_start_show">启动演示</string>
+    <string name="str_material_design">Material Design控件</string>
+</resources>

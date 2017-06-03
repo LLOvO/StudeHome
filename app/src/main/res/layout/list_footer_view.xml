@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.activity.ListHomeActivity"
+    tools:showIn="@layout/activity_main">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:scaleType="fitEnd"
+        android:background="@drawable/abc_list_selector_disabled_holo_dark"
+        android:src="@drawable/header"/>
+</FrameLayout>
